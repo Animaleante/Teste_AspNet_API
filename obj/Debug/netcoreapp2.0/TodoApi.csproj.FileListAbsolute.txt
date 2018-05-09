@@ -1,0 +1,10 @@
+c:\Users\PC970\GitHub\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+c:\Users\PC970\GitHub\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+c:\Users\PC970\GitHub\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+c:\Users\PC970\GitHub\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\PC970\GitHub\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
