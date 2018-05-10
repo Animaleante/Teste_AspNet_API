@@ -8,3 +8,13 @@ c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs
 c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
 c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
 c:\Users\PC970\GitHub\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\opet\Documents\Github\Teste_AspNet_API\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\opet\Documents\Github\Teste_AspNet_API\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\opet\Documents\Github\Teste_AspNet_API\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\opet\Documents\Github\Teste_AspNet_API\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\opet\Documents\Github\Teste_AspNet_API\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\opet\Documents\Github\Teste_AspNet_API\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\opet\Documents\Github\Teste_AspNet_API\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\opet\Documents\Github\Teste_AspNet_API\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\opet\Documents\Github\Teste_AspNet_API\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\opet\Documents\Github\Teste_AspNet_API\obj\Debug\netcoreapp2.0\TodoApi.pdb
