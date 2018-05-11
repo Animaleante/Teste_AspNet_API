@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\TodoApi.csproj",
+      "projectUniqueName": "c:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\TodoApi.csproj",
+      "projectPath": "c:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\opet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\obj\\",
+      "outputPath": "c:\\Users\\opet\\Documents\\Github\\Teste_AspNet_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
